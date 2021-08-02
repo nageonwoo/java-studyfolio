@@ -1,4 +1,4 @@
-package condition.test;
+package loop.test;
 import java.util.Scanner;
 
 public class BOJ9498{
